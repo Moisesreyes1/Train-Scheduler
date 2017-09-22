@@ -1,0 +1,21 @@
+body {
+
+    background: rgba(53, 66, 4, 0.25);
+}
+
+
+h1 {
+	font-size: 100px;
+
+}
+
+h2 {
+	font-size: 50px;
+}
+
+footer {
+	text-align: center;
+	box-sizing: border-box;
+	background: #000000;
+	margin-top: 20px;
+}
